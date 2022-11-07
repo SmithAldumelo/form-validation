@@ -1,0 +1,34 @@
+form{
+  
+   
+        width: 300px;
+        box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+        background:#7DE5ED;
+        padding: 20px;
+        margin:8% auto 0;
+        
+}
+
+label{
+ color:black;
+}
+
+.click{
+    text-align: center;
+}
+
+.btn{
+    
+    margin-top: 40px;
+   
+}
+
+h1{
+    color: #5DA7DB;
+}
+p{
+    color: #0d6efd;
+}
+.content{
+    padding-top: 30%;
+}
